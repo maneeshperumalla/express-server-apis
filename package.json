@@ -1,0 +1,25 @@
+{
+  "name": "express-server-apis",
+  "version": "1.0.0",
+  "description": "Express server to build web applications and APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maneeshperumalla/express-server-apis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maneeshperumalla/express-server-apis/issues"
+  },
+  "homepage": "https://github.com/maneeshperumalla/express-server-apis#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1",
+    "path": "^0.12.7"
+  }
+}
